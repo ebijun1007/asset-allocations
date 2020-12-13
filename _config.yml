@@ -1,22 +1,22 @@
 # Site settings
 title: DentistSmile | Dental Jekyll Theme
-description: "A responsive Jekyll theme for dental clinics."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the name of your domain
-logo_url: svg/min/logo.svg
+description: ""
+baseurl:  # the subpath of your site, e.g. /blog
+url: ebijun1007.github.io # the name of your domain
+logo_url: img/logo.png
 
 # Hero
 hero:
   hero_img: fv.jpg
-  hero_title: DentistSmile
-  hero_description: A responsive Jekyll theme for dental clinics.
+  hero_title: サイトタイトル
+  hero_description: 概要欄
 
 # Contact form
-api_token: # Enter API token here
+api_token: dd5651d122e42068be12147a26bb0c92
 
 # Contact info
 contact:
-  phone: 932 50 540
+  phone: 電話番号
   emergency: 931 53 234
   email: contact@yoursite.com
   address: Von schroeders 273, <br> Viña del mar - Chile
@@ -45,7 +45,7 @@ skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2020 Jun Ebina - All rights reserved
 
 # Build settings
 markdown: kramdown
@@ -60,7 +60,6 @@ exclude:
     Gemfile.lock,
     .gitignore,
     docker-compose.yml,
-    vendor,
   ]
 
 # Theme Settings
