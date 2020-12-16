@@ -1,23 +1,15 @@
 - icon: icon-user-md
-  title: 税金対策の相談
+  title: 資産形成に関するコンサルティング
   description: テキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
 
 - icon: icon-diamond
-  title: 資産運用の見直し
+  title: 情報提供および調査
   description: テキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
 
 - icon: icon-flask
-  title: ライフプランの作成
+  title: メディア運用事業
   description: テキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
 
 - icon: icon-globe
-  title: 何か
-  description: テキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
-
-- icon: icon-ambulance
-  title: 何か
-  description: テキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
-
-- icon: icon-bed
-  title: 何か
+  title: 起業支援
   description: テキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト

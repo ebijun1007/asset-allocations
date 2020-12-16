@@ -1,7 +1,7 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
+title: AssetAllocations | ProTech Service
 description: ""
-baseurl:  # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: ebijun1007.github.io # the name of your domain
 logo_url: img/logo.png
 
