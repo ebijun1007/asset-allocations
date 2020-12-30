@@ -8,18 +8,18 @@ logo_url: img/logo.png
 # Hero
 hero:
   hero_img: fv.jpg
-  hero_title: サイトタイトル
-  hero_description: 概要欄
+  hero_title: Owners Union
+  hero_descripiton: 資産運用に関するセカンドオピニオンサイト
 
 # Contact form
-api_token: dd5651d122e42068be12147a26bb0c92
+api_token: c03e14b3b14c1df1f5021d7b8f6d0c04
 
 # Contact info
 contact:
   phone: 電話番号
   emergency: 931 53 234
-  email: contact@yoursite.com
-  address: Von schroeders 273, <br> Viña del mar - Chile
+  email: owns.union@gmail.com
+  address: オンライン対応 <br> 詳しくはお問い合わせください
 
 # Opening hours
 monday_friday: 9:00 – 18:00
@@ -37,15 +37,15 @@ map:
   address_details: svg/min/logo.svg
 
 # Social settings
-facebook: http://facebook.com
-twitter: http://twitter.com
+facebook: 
+twitter: 
 instagram: http://instagram.com
-youtube: http://youtube.com
-skype: skype:obaez_design?userinfo
-feed: yes
+youtube: 
+skype: 
+feed: 
 
 # Footer
-copyright: © 2020 Jun Ebina - All rights reserved
+copyright: © 2021 Owners Union - All rights reserved
 
 # Build settings
 markdown: kramdown
@@ -65,16 +65,3 @@ exclude:
 # Theme Settings
 analytics:
 google_verification:
-
-cloudinary:
-  cloud_name: ebijun
-  verbose: true
-  origin_url: your-site-url
-  only_prod: true
-  presets:
-    default:
-      min_width: 320
-      max_width: 1600
-      fallback_max_width: 800
-      steps: 3
-      sizes: "(min-width: 50rem) 50rem, 90vw"

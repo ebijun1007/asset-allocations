@@ -45,7 +45,6 @@ layout: default
         <svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>
         <h3>連絡先</h3>
         <ul>
-            {% if site.contact.phone %}<li><strong>電話番号</strong> {{ site.contact.phone }}</li>{% endif %}
             {% if site.contact.email %}<li><strong>メールアドレス:</strong> {{ site.contact.email }}</li>{% endif %}
         </ul>
     </div>
@@ -138,7 +137,6 @@ layout: default
                     <div class="icon-box">
                         <svg class="icon {{ treatment.icon }}"><use xlink:href="#{{ treatment.icon }}"></use></svg>
                         <h4>{{ treatment.title }}</h4>
-                        <p>{{ treatment.description }}</p>
                     </div>
                 </div>
             {% endfor %}
@@ -172,7 +170,7 @@ layout: default
 <!-- End Testimonials -->
 
 <!-- Start Gallery -->
-<div id="gallery" class="gallery">
+<!-- <div id="gallery" class="gallery">
         
     <h2 class="section-title">実績</h2>
 
@@ -187,7 +185,7 @@ layout: default
         </a>
     {% endfor %}
 
-</div>
+</div> -->
 <!-- End Gallery -->
 
 <!-- Start Contact -->
